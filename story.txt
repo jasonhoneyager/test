@@ -6,6 +6,9 @@ While thinking about what to write about, he decided to complete the rest of his
 
 The group still had to vote on the best story.  Despite not putting much effort into the story, nor having much content, his story was still chosen as the best, much to his disappointment.  If he wanted to go into creative writing, he would have gone to a liberal arts college.
 
+<<<<<<< HEAD
+So he then went into notepad and started typing away, line after line he typed away until he finally managed to complete his story to then show off to the rest of the group!
+=======
 CARLOS ADDED THIS  BELOW:
 This is the first file test for Test repository.
 
@@ -17,3 +20,9 @@ This is the first file test for Test repository.
 
 Sincerely
 Carlos E Rodriguez.  (the frog that jumped out of the hot water before it killed me)
+
+==============
+Sorry Jason.  I deleted your story. But remember that I voted for you so we are cooL Cool!
+  Then again the story is about me but I am supposed to add about others or me. Very confusing.  Hopesully this time when I push again, it will add my paragraph and not kill the rest.
+=========================
+>>>>>>> 0fd811fefecdc3e0c34370939e535e5e9732d630
